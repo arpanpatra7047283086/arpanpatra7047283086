@@ -4,11 +4,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Hi%20👋,%20I'm%20Arpan%20Patra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&duration=3000&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning+Student;Full+Stack+Developer;Machine+Learning+Engineer;Data+Science+Enthusiast;Building+Real+World+AI+Applications;Always+Learning+New+Technologies+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&duration=3000&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Data+Science+Explorer;Building+Real+World+AI+Applications;Always+Learning+%F0%9F%9A%80" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=arpanpatra7047283086&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=arpanpatra7047283086&style=for-the-badge&color=blueviolet" />
 
 </div>
 
