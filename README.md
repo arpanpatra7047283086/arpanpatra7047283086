@@ -1,162 +1,128 @@
-<!-- Banner -->
+<!-- Animated Header -->
 <h1 align="center">Hi 👋, I'm Arpan Patra</h1>
 
+<h3 align="center">
+🚀 AI & Machine Learning Student | Full Stack Developer | Data Science Enthusiast
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Data+Science+Explorer;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+Web+Developer;Machine+Learning+Enthusiast;Building+AI+Solutions+for+Real+World+Problems;Always+Learning+Something+New+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=arpanpatra7047283086&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 **B.Tech (AI & ML)** Student at **Haldia Institute of Technology**
+🎓 B.Tech Student in **Artificial Intelligence & Machine Learning** at **Haldia Institute of Technology**
 
-💡 Passionate about **Artificial Intelligence, Data Science, Machine Learning, and Full Stack Development**
+💡 Passionate about:
+- 🤖 Artificial Intelligence
+- 📊 Data Science
+- 🧠 Machine Learning
+- 🌐 Full Stack Development
+- 💻 Problem Solving & DSA
 
-🚀 Love building intelligent applications that solve real-world problems.
-
-🌱 Currently improving my skills in:
-- Machine Learning
-- Deep Learning
-- Data Science
-- React & Django
-- DSA & Problem Solving
+🚀 I enjoy building scalable applications and intelligent systems that solve real-world challenges.
 
 ---
 
-# 💼 Experience
+## 🛠️ Tech Stack
 
-## 🚀 Web Developer & Machine Learning Developer
-**Kanan Biotech**
+### Languages
+`Python` • `Java` • `C` • `JavaScript`
 
-- 🌐 Developed responsive web applications.
-- ⚛️ Built frontend using React, HTML, CSS & JavaScript.
-- 🔥 Integrated backend using Django & MongoDB.
-- 🤖 Worked on AI/ML features using Python.
-- 📊 Developed intelligent solutions for practical applications.
+### AI & Data Science
+`Machine Learning` • `TensorFlow` • `Scikit-Learn` • `Pandas` • `NumPy`
 
----
-
-# 🛠️ Tech Stack
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
-
-### AI / Machine Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-red?style=for-the-badge)
-
-### Full Stack
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+### Web Development
+`React.js` • `Django` • `Node.js` • `HTML5` • `CSS3` • `JavaScript`
 
 ### Database
+`MongoDB` • `SQL`
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+### Tools
+`Git` • `GitHub` • `VS Code` • `Streamlit`
+
+---
+
+## 💼 Experience
+
+### 🚀 Web Developer & Machine Learning Developer
+**Kanan Biotech**
+
+- Developed modern web applications using React and Django.
+- Integrated AI/ML models into production-ready applications.
+- Worked on backend APIs and database management.
+- Built intelligent solutions using Python and Machine Learning.
 
 ---
 
 # 🚀 Featured Projects
 
-## 🔥 Advance Fire Detection System
-🏆 Inter-College Hackathon 2025
+## 📂 Explore My Work
 
-- AI-powered real-time fire detection
-- Streamlit + Full Stack implementation
-- TensorFlow + Python + React + Django
+I've built projects in:
 
----
+- 🤖 Artificial Intelligence
+- 🔥 Fire Detection using Machine Learning
+- 🛒 E-Commerce Platforms
+- 🌐 Full Stack Web Applications
+- 📚 AI Study Assistant
+- 🏦 Banking Systems
+- 📊 Data Science & Analytics
 
-## 🛒 SS Supplement (E-commerce Platform)
+## 👉 **Want to see all my projects?**
 
-- Zero-downtime architecture
-- Django + Next.js Backup Server
-- React Frontend
-- MongoDB
-- Admin Dashboard
-- REST APIs
-
----
-
-## 📚 AI Exam Preparation Platform
-
-🏆 Inter-College Hackathon 2025
-
-- AI-generated notes & answers
-- Node.js
-- HTML/CSS/JS
-- AI APIs
+### ⭐ **Visit my GitHub Repositories:**
+# **🔗 https://github.com/arpanpatra7047283086?tab=repositories**
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
-🥇 Built AI-based Fire Detection System
+🏅 AI-based Fire Detection System Developer
 
-🌐 Designed Official Website of KB Company
+🏅 Official Website Developer at Kanan Biotech
 
-🏦 Developed NBNK Banking Website
+🏅 Built Banking & E-Commerce Platforms
 
-🛒 Developed Live Multi-Server E-commerce Platform
+🏅 Hackathon Participant
 
-💻 Active Hackathon Participant & DSA Enthusiast
-
----
-
-# 🎓 Education
-
-**B.Tech – Artificial Intelligence & Machine Learning**
-
-📍 Haldia Institute of Technology
-
-2024 – Present
+🏅 Passionate DSA & Open Source Learner
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arpanpatra7047283086&show_icons=true&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arpanpatra7047283086&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpanpatra7047283086&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-# 🌍 Connect With Me
+## 📫 Connect With Me
 
-📧 Email: your-email@example.com
+📧 **Email:** arpanpatra800188500@gmail.com
 
-🐙 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+🐙 **GitHub:** https://github.com/arpanpatra7047283086
 
-💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+💼 **LinkedIn:** https://www.linkedin.com/in/arpan-patra-6b0a37291
 
 ---
 
+<h3 align="center">
+⭐ Thank you for visiting my profile! ⭐
+</h3>
+
 <p align="center">
-
-### 💙 “Code • Learn • Build • Innovate • Repeat”
-
-⭐ If you like my projects, consider starring them!
-
+<i>"Code • Learn • Build • Innovate • Repeat 🚀"</i>
 </p>
