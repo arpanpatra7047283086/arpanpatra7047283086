@@ -1,128 +1,152 @@
-<!-- Animated Header -->
-<h1 align="center">Hi 👋, I'm Arpan Patra</h1>
+<!-- ========================= HEADER ========================= -->
 
-<h3 align="center">
-🚀 AI & Machine Learning Student | Full Stack Developer | Data Science Enthusiast
-</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+Web+Developer;Machine+Learning+Enthusiast;Building+AI+Solutions+for+Real+World+Problems;Always+Learning+Something+New+🚀" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Hi%20👋,%20I'm%20Arpan%20Patra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arpanpatra7047283086&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&duration=3000&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Data+Science+Explorer;Building+Real+World+AI+Applications;Always+Learning+%F0%9F%9A%80" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=arpanpatra7047283086&style=for-the-badge&color=blueviolet" />
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# 🚀 About Me
 
-🎓 B.Tech Student in **Artificial Intelligence & Machine Learning** at **Haldia Institute of Technology**
+🎓 B.Tech Student in **Artificial Intelligence & Machine Learning**
 
-💡 Passionate about:
+🏫 **Haldia Institute of Technology**
+
+💡 Passionate about building intelligent software using AI, Machine Learning, Data Science, and Full Stack technologies.
+
 - 🤖 Artificial Intelligence
-- 📊 Data Science
 - 🧠 Machine Learning
+- 📊 Data Science
 - 🌐 Full Stack Development
-- 💻 Problem Solving & DSA
-
-🚀 I enjoy building scalable applications and intelligent systems that solve real-world challenges.
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-`Python` • `Java` • `C` • `JavaScript`
-
-### AI & Data Science
-`Machine Learning` • `TensorFlow` • `Scikit-Learn` • `Pandas` • `NumPy`
-
-### Web Development
-`React.js` • `Django` • `Node.js` • `HTML5` • `CSS3` • `JavaScript`
-
-### Database
-`MongoDB` • `SQL`
-
-### Tools
-`Git` • `GitHub` • `VS Code` • `Streamlit`
+- 💻 Data Structures & Algorithms
+- 🚀 Open Source & Innovation
 
 ---
 
-## 💼 Experience
+# 🛠️ Tech Stack
 
-### 🚀 Web Developer & Machine Learning Developer
-**Kanan Biotech**
+### 💻 Languages
 
-- Developed modern web applications using React and Django.
-- Integrated AI/ML models into production-ready applications.
-- Worked on backend APIs and database management.
-- Built intelligent solutions using Python and Machine Learning.
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,js"/>
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,django,nodejs,html,css"/>
+</p>
+
+### 🤖 AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+</p>
+
+- Machine Learning
+- Deep Learning
+- Scikit-Learn
+- Pandas
+- NumPy
+
+### 🗄️ Database & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode"/>
+</p>
 
 ---
 
-# 🚀 Featured Projects
+# 💼 Experience
 
-## 📂 Explore My Work
+## 🚀 Web Developer & Machine Learning Developer
 
-I've built projects in:
+### Kanan Biotech
+
+- 🌐 Developed responsive full stack web applications.
+- ⚛️ Worked with React, Django, HTML, CSS, and JavaScript.
+- 🤖 Integrated Machine Learning models using Python.
+- 🗄️ Managed backend APIs and MongoDB databases.
+- 🚀 Built AI-powered solutions for practical business use cases.
+
+---
+
+# 📂 Explore My Projects
+
+## 🔥 I've worked on projects involving:
 
 - 🤖 Artificial Intelligence
 - 🔥 Fire Detection using Machine Learning
 - 🛒 E-Commerce Platforms
-- 🌐 Full Stack Web Applications
-- 📚 AI Study Assistant
+- 🌐 Full Stack Applications
+- 📚 AI Study Assistants
 - 🏦 Banking Systems
-- 📊 Data Science & Analytics
+- 📊 Data Science
 
-## 👉 **Want to see all my projects?**
+<div align="center">
 
-### ⭐ **Visit my GitHub Repositories:**
-# **🔗 https://github.com/arpanpatra7047283086?tab=repositories**
+# ⭐ View All My Repositories ⭐
+
+## 👉 https://github.com/arpanpatra7047283086?tab=repositories
+
+</div>
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
 🏅 AI-based Fire Detection System Developer
 
 🏅 Official Website Developer at Kanan Biotech
 
-🏅 Built Banking & E-Commerce Platforms
+🏅 Banking Website Backend Developer
+
+🏅 Multi-Server E-Commerce Platform Developer
 
 🏅 Hackathon Participant
 
-🏅 Passionate DSA & Open Source Learner
+🏅 Passionate DSA Problem Solver
 
 ---
 
-## 📊 GitHub Stats
+# 📈 GitHub Analytics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arpanpatra7047283086&show_icons=true&theme=tokyonight"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arpanpatra7047283086&theme=tokyonight"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpanpatra7047283086&layout=compact&theme=tokyonight"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arpanpatra7047283086&show_icons=true&theme=tokyonight&hide_border=true"/>
 
----
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=arpanpatra7047283086&theme=tokyonight&hide_border=true"/>
 
-## 📫 Connect With Me
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpanpatra7047283086&layout=compact&theme=tokyonight&hide_border=true"/>
 
-📧 **Email:** arpanpatra800188500@gmail.com
-
-🐙 **GitHub:** https://github.com/arpanpatra7047283086
-
-💼 **LinkedIn:** https://www.linkedin.com/in/arpan-patra-6b0a37291
+</div>
 
 ---
 
-<h3 align="center">
-⭐ Thank you for visiting my profile! ⭐
-</h3>
+# 📫 Connect With Me
 
-<p align="center">
-<i>"Code • Learn • Build • Innovate • Repeat 🚀"</i>
-</p>
+📧 **Email:** `arpanpatra800188500@gmail.com`
+
+🐙 **GitHub:** `https://github.com/arpanpatra7047283086`
+
+💼 **LinkedIn:** `https://www.linkedin.com/in/arpan-patra-6b0a37291`
+
+---
+
+<div align="center">
+
+### 💙 Code • Learn • Build • Innovate • Repeat
+
+⭐ **If you like my work, don't forget to star my repositories!**
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f2027,50:203a43,100:2c5364"/>
